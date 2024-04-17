@@ -1,0 +1,8 @@
+.textContainer {
+  container-type: inline-size;
+}
+
+.textContainer > p {
+  font-size: 6cqi;
+  line-height: 1.25em;
+}
